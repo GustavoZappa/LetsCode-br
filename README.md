@@ -5,4 +5,6 @@
 * git diff e commit
 * git log e restore
 * uso do comando git restore
+* comando git pull
+* 
 
