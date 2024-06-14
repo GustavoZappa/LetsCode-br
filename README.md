@@ -4,4 +4,5 @@
 * comando git push.
 * git diff e commit
 * git log e restore
+* uso do comando restore
 
